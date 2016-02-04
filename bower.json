@@ -1,6 +1,6 @@
 {
   "name": "openfb",
-  "version": "0.0.0",
+  "version": "0.5.0",
   "main": "ngopenfb.js",
   "ignore": []
 }
